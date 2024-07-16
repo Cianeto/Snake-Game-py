@@ -2,6 +2,8 @@
 
 The objective of this repository is to have fun and improve my coding skills while at it. I've divided the planning of what i shall do in three steps: In the first step I'll get to know pygame, in the second step I'll start coding the base of the game, and in the third I'll polish it.
 
+I also want to test things like creating a .exe for the game and creating a "release" tab in the github repo of this project.
+
 ## 1. Features Summary
 
 ### - Title Screen
